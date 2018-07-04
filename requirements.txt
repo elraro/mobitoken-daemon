@@ -1,0 +1,7 @@
+mobitoken-daemon
+PyBluez==0.22
+PyGObject==3.28.2
+dbus-python==1.2.8
+pip==10.0.1
+pycairo==1.17.0
+setuptools==39.2.0
